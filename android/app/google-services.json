@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756460274043",
+    "project_id": "eczaneilacbilgisistemi",
+    "storage_bucket": "eczaneilacbilgisistemi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756460274043:android:3e4f059f668d91064bfdde",
+        "android_client_info": {
+          "package_name": "com.eczaneilacbilgisistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756460274043-nd6cogg7jko22kkb4frcsbuagmi0id1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYe7R3_fJHuCkRGQtoMh04naFVHNVokeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756460274043-nd6cogg7jko22kkb4frcsbuagmi0id1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
